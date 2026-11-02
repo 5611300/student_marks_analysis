@@ -1,0 +1,6 @@
+{
+  "name": "Student Marks Analysis Dashboard",
+  "description": "Second Year B.Sc. AIML Field Project for analysing student academic marks using Python, Pandas and dynamic visualisations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
